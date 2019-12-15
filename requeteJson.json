@@ -1,0 +1,15 @@
+{
+  "nom":"Final Fantasy X",
+  "editeur":"Square Enix",
+  "anneSortie":"2001",
+  "consoles": [
+    {
+      "nom": "Playstation 2",
+      "marque": "Sony"
+    },
+    {
+      "nom": "Playstation 4",
+      "marque": "Sony"
+    }
+  ]
+}
